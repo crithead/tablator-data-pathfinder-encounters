@@ -1,0 +1,127 @@
+{
+  "name": "Pathfinder Bestiary 1 Jungle (Warm Forest) Encounter",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 4,
+      "name": "bat swarm",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "yellow musk creeper",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "constrictor snake",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "giant centipede",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 8,
+      "name": "leopard",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "giant spider",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 4,
+      "name": "venomous snake",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 6,
+      "name": "boar",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "dire boar",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "tiger",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "giant frilled lizard",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "monitor lizard",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "army ant swarm",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "ankylosaurus",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "dire ape",
+      "quantity": "1d6"
+    },
+    {
+      "weight":8,
+      "name": "gorilla",
+      "quantity": "2d4"
+    },
+    {
+      "weight": 4,
+      "name": "deinonychus",
+      "quantity": "2d4"
+    },
+    {
+      "weight": 2,
+      "name": "nymph",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "girallon",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 4,
+      "name": "dire tiger",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "shambling mound",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 2,
+      "name": "treant",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "tyrannosaurus",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "brachiosaurus",
+      "quantity": "1"
+    }
+  ]
+}

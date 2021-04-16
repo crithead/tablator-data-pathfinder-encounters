@@ -1,0 +1,127 @@
+{
+  "name": "Pathfinder Bestiary 1 Swamp Encounter",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 6,
+      "name": "constrictor snake",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "hydra",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "leech swarm",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "gray ooze",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "green hag",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "ochre jelly",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "stirge",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 6,
+      "name": "crocodile",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 8,
+      "name": "giant frog",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 6,
+      "name": "goblin dog",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 4,
+      "name": "harpy",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 8,
+      "name": "lizardfolk",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 8,
+      "name": "boggard",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 2,
+      "name": "chuul",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "dracolisk",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "giant leech",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 2,
+      "name": "young black dragon",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "giant slug",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "shambling mound",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "spirit naga",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "will-o'-wisp",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "dire crocodile",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "giant flytrap",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "froghemoth",
+      "quantity": "1"
+    }
+  ]
+}

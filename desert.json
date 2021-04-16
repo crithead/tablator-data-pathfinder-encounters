@@ -1,0 +1,107 @@
+{
+  "name": "Pathfinder Bestiary 1 Desert Encounter",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 8,
+      "name": "giant spider",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "skeletal champion",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "skeleton",
+      "quantity": "1d8"
+    },
+    {
+      "weight": 4,
+      "name": "bat swarm",
+      "quantity": "1"
+    },
+    {
+      "weight": 8,
+      "name": "giant scorpion",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "dire bat",
+      "quantity": "1d3"
+    },
+    {
+      "weight": 8,
+      "name": "venomous snake",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "basilisk",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "mummy",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "jann",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 4,
+      "name": "lamia",
+      "quantity": "1"
+    },
+    {
+      "weight": 8,
+      "name": "giant ant",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 4,
+      "name": "brass dragon (young)",
+      "quantity": "1"
+    },
+    {
+      "weight": 8,
+      "name": "gnoll",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 4,
+      "name": "ramorhaz",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "behir",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "sphinx",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "blue dragon (young)",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "brass dragon (adult)",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "blue dragon (adult)",
+      "quantity": "1"
+    }
+  ]
+}

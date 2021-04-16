@@ -1,0 +1,127 @@
+{
+  "name": "Pathfinder Bestiary 1 Savannah (Warm Plains) Encounter",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 6,
+      "name": "cheetah",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "cockatrice",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "giant scorpion",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "dire lion",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "giant frilled lizard",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "ankhegs",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "pteranodon",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 6,
+      "name": "monitor lizard",
+      "quantity": "1d8"
+    },
+    {
+      "weight": 4,
+      "name": "dire hyena",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 8,
+      "name": "hyena",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 8,
+      "name": "gnoll",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 6,
+      "name": "lion",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "giant ant",
+      "quantity": "2d4"
+    },
+    {
+      "weight": 4,
+      "name": "pegasus",
+      "quantity": "2d4"
+    },
+    {
+      "weight": 4,
+      "name": "centaur",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 2,
+      "name": "dire tiger",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "ankylosaurus",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "stegosaurus",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "rhinoceros",
+      "quantity": "2d4"
+    },
+    {
+      "weight": 2,
+      "name": "young gold dragon",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "elephant",
+      "quantity": "2d4"
+    },
+    {
+      "weight": 2,
+      "name": "tyrannosaurus",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "triceratops",
+      "quantity": "1d8"
+    },
+    {
+      "weight": 2,
+      "name": "brachiosaurus",
+      "quantity": "1d6"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Pathfinder Bestiary 1 Mid-level Dungeon Encounter",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 4,
+      "name": "gelatinous cube",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "rust monster",
+      "quantity": "1"
+    },
+    {
+      "weight": 8,
+      "name": "stirge",
+      "quantity": "2d4"
+    },
+    {
+      "weight": 6,
+      "name": "gray ooze",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "mimic",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "minotaur",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "basilisk",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "cloaker",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "gibbering mouther",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "ochre jelly",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "wraith",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "bearded devil",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "shadow",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 4,
+      "name": "wight",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 6,
+      "name": "skeletal champion",
+      "quantity": "1d8"
+    },
+    {
+      "weight": 6,
+      "name": "ghast (1) & ghoul",
+      "quantity": "2d4"
+    },
+    {
+      "weight": 4,
+      "name": "ettin",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "ogre",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 4,
+      "name": "troll",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 2,
+      "name": "babau",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "black pudding",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "medusa",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "shadow demon",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "xill",
+      "quantity": "1d4"
+    }
+  ]
+}

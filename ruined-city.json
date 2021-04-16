@@ -1,0 +1,127 @@
+{
+  "name": "Pathfinder Bestiary 1 Ruined City Encounter",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 4,
+      "name": "spider swarm",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "rat swarm",
+      "quantity": "1"
+    },
+    {
+      "weight": 8,
+      "name": "human skeleton",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 8,
+      "name": "stirge",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "assassin vine",
+      "quantity": "1"
+    },
+    {
+      "weight": 8,
+      "name": "ghoul",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "barghest",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "skeletal champion",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "yeth hound",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 6,
+      "name": "ogre",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "shadow",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "wight",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "lamia",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "harpy",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "medusa",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "nabasu",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "dark naga",
+      "quantity": "1"
+    },
+    {
+      "weight": 8,
+      "name": "gargoyle",
+      "quantity": "1d8"
+    },
+    {
+      "weight": 4,
+      "name": "cyclops",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "wraith",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "behir",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "sphinx",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "spirit naga",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "spectre",
+      "quantity": "1d4"
+    }
+  ]
+}

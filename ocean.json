@@ -1,0 +1,127 @@
+{
+  "name": "Pathfinder Bestiary 1 Ocean Encounter",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 4,
+      "name": "octopus",
+      "quantity": "1"
+    },
+    {
+      "weight": 10,
+      "name": "dolphin",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 5,
+      "name": "merfolk",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 4,
+      "name": "sea hag",
+      "quantity": "1"
+    },
+    {
+      "weight": 8,
+      "name": "squid",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 5,
+      "name": "water mephit",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "aboleth",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "giant octopus",
+      "quantity": "1"
+    },
+    {
+      "weight": 8,
+      "name": "sahuagin",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 10,
+      "name": "shark",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 6,
+      "name": "skum",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 5,
+      "name": "giant moray eel",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 6,
+      "name": "large water elemental",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "dire shark",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "dragon turtle",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "giant squid",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "elasmosaurus",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 6,
+      "name": "orca",
+      "quantity": "2d4"
+    },
+    {
+      "weight": 2,
+      "name": "young bronze dragon",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "marid",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "elder water elemental",
+      "quantity": "1"
+    },
+    {
+      "weight": 1,
+      "name": "sea serpent",
+      "quantity": "1"
+    },
+    {
+      "weight": 1,
+      "name": "kraken",
+      "quantity": "1"
+    },
+    {
+      "weight": 1,
+      "name": "shoggoth",
+      "quantity": "1"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Pathfinder Bestiary 1 Forest (Temperate Forest) Encounter",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 6,
+      "name": "bat swarm",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "yellow musk creeper",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "giant spider",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 4,
+      "name": "assassin vine",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "giant mantis",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "unicorn",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "dire bat",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 6,
+      "name": "boar",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 2,
+      "name": "dire boar",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "giant stag beetle",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "owlbear",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "tiger",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "werewolf",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "dire wolf",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 4,
+      "name": "ettercap (1) & giant spider",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 10,
+      "name": "goblins with goblin dogs",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 4,
+      "name": "barghest (1) & goblin",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 4,
+      "name": "centaur",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 8,
+      "name": "wolf",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 2,
+      "name": "nymph",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "dire tiger",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "young green dragon",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "shambling mound",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 2,
+      "name": "treant",
+      "quantity": "1"
+    }
+  ]
+}

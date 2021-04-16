@@ -1,0 +1,97 @@
+{
+  "name": "Pathfinder Bestiary 1 Urban (Dangerous City) Encounter",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 12,
+      "name": "dog",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 8,
+      "name": "rat swarm",
+      "quantity": "1"
+    },
+    {
+      "weight": 10,
+      "name": "riding dog",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "werewolf",
+      "quantity": "1"
+    },
+    {
+      "weight": 8,
+      "name": "dire rat",
+      "quantity": "3d6"
+    },
+    {
+      "weight": 8,
+      "name": "tengu",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 8,
+      "name": "tiefling",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 6,
+      "name": "ghoul",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 6,
+      "name": "doppleganger",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 10,
+      "name": "wererat",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 4,
+      "name": "succubus",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "jann",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "gargoyle",
+      "quantity": "1d8"
+    },
+    {
+      "weight": 2,
+      "name": "mohrg",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "intellect devourer",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "vampire",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "night hag",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "rakshasa",
+      "quantity": "1"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Pathfinder Bestiary 1 High-level Dungeon Encounter",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 4,
+      "name": "black pudding",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "dark naga",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "mohrg",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "nabasu",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "cloaker",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 6,
+      "name": "wraith",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 8,
+      "name": "ettin",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 4,
+      "name": "bone devil",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "night hag",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "spirit naga",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "vampire",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "vrock",
+      "quantity": "1"
+    },
+    {
+      "weight": 8,
+      "name": "minotaur",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 6,
+      "name": "troll",
+      "quantity": "2d4"
+    },
+    {
+      "weight": 4,
+      "name": "greater shadow",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 2,
+      "name": "bebilith",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "barbed devil",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "devourer",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "herzou",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "rakshasa",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 2,
+      "name": "lich",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "glabrezu",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "ice devil",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "nalfeshnee",
+      "quantity": "1"
+    }
+  ]
+}

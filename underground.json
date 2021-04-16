@@ -1,0 +1,97 @@
+{
+  "name": "Pathfinder Bestiary 1 Underground Encounter",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "name": "duergar",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 6,
+      "name": "cave fisher",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 6,
+      "name": "basidirond",
+      "quantity": "1"
+    },
+    {
+      "weight": 10,
+      "name": "drow noble (1) & drow",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 8,
+      "name": "giant spider",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 6,
+      "name": "violet fungi",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 6,
+      "name": "derro",
+      "quantity": "1d8"
+    },
+    {
+      "weight": 8,
+      "name": "morlock",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 4,
+      "name": "black pudding",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "giant slug",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "cloaker",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 10,
+      "name": "dark stalker (1) & dark creeper",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 4,
+      "name": "drider",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "intellect devourer",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "purple worm",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "roper",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 2,
+      "name": "neothelid",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "shoggoth",
+      "quantity": "1"
+    }
+  ]
+}

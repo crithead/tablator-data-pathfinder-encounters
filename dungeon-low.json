@@ -1,0 +1,127 @@
+{
+  "name": "Pathfinder Bestiary 1 Low-level Dungeon Encounter",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 6,
+      "name": "dire rat",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 6,
+      "name": "fire beetle",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 8,
+      "name": "human skeleton",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "giant centipede",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 2,
+      "name": "spider swarm",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "human zombie",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "choker",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "skeletal champion",
+      "quantity": "1"
+    },
+    {
+      "weight": 8,
+      "name": "goblin",
+      "quantity": "2d6"
+    },
+    {
+      "weight": 4,
+      "name": "ghoul",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 6,
+      "name": "giant spider",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 2,
+      "name": "cockatrice",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "gelatinous cube",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "rust monster",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "shadow",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "wight",
+      "quantity": "1"
+    },
+    {
+      "weight": 6,
+      "name": "stirge",
+      "quantity": "2d4"
+    },
+    {
+      "weight": 6,
+      "name": "darkmantle",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "troglodyte",
+      "quantity": "1d6"
+    },
+    {
+      "weight": 4,
+      "name": "bugbear",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 2,
+      "name": "vargouilles",
+      "quantity": "1d4"
+    },
+    {
+      "weight": 2,
+      "name": "gray ooze",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "mimic",
+      "quantity": "1"
+    },
+    {
+      "weight": 4,
+      "name": "ogre",
+      "quantity": "1"
+    }
+  ]
+}
